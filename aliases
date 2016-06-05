@@ -1,0 +1,14 @@
+alias aliases='vim ~/.aliases'
+
+# General Utility
+alias please='sudo $(history -p !!)'
+alias hosts="sudo vim /etc/hosts"
+alias laravel='sudo php $HOME/.composer/vendor/bin/laravel'
+alias vimrc="vim $HOME/.vimrc"
+
+# Git stuff
+alias nah='git reset --hard;git clean -df;'
+alias gaa="git add all;"
+alias gi="git init"
+alias gp="git push"
+alias gs="git status"
