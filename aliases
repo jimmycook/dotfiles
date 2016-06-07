@@ -1,9 +1,9 @@
 alias aliases='vim ~/.aliases'
 
 # General Utility
-alias please='sudo $(history -p !!)'
-alias hosts="sudo vim /etc/hosts"
-alias laravel='sudo php $HOME/.composer/vendor/bin/laravel'
+alias please='sudo $(history -p !!)' #broken
+alias hosts="sudo vim /etc/hosts" 
+alias laravel='php $HOME/.composer/vendor/bin/laravel'
 alias vimrc="vim $HOME/.vimrc"
 
 # Git stuff
