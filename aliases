@@ -12,3 +12,10 @@ alias gaa="git add all;"
 alias gi="git init"
 alias gp="git push"
 alias gs="git status"
+
+# Work Related
+# CD shortcuts for mounted drives
+alias cd2.7='cd /Volumes/www-kirweblin2/working'
+alias cd2.6='cd /Volumes/www/working'
+# SSH shortcuts
+alias 2.7='ssh root@10.0.2.7'
