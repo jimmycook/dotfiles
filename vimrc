@@ -16,7 +16,6 @@ set t_CO=256
 set guifont=Fire_Code
 
 
-
 "-----------------Search------------"
 set hlsearch
 set incsearch
